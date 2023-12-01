@@ -2,7 +2,7 @@
 
 ## 第一题
 
-![](题目.png/1.png)
+![](question.assets/1.png)
 
 ```c++
 //
@@ -57,9 +57,9 @@ int main(){
 
 ## 第二题
 
-![](题目.png/2_1.png)
+![](question.assets/2_1.png)
 
-![](题目.png/2_2.png)
+![](question.assets/2_2.png)
 
 ```c++
 //
@@ -103,11 +103,11 @@ int main(){
 
 ## 第三题
 
-![](题目.png/3_1.png)
+![](question.assets/3_1.png)
 
-![](题目.png/3_2.png)
+![](question.assets/3_2.png)
 
-![](题目.png/3_3.png)
+![](question.assets/3_3.png)
 
 ```
 
@@ -119,9 +119,9 @@ int main(){
 
 ## 第四题
 
-![](题目.png/4_1.png)
+![](question.assets/4_1.png)
 
-![](题目.png/4_2.png)
+![](question.assets/4_2.png)
 
 ```c++
 #include "bits/stdc++.h"
@@ -184,7 +184,7 @@ int main() {
 
 ## 第五题
 
-![](题目.png/5.png)
+![](question.assets/5.png)
 
 ```c++
 //
@@ -260,9 +260,9 @@ int main(){
 
 ## 第六题
 
-![](题目.png/6_1.png)
+![](question.assets/6_1.png)
 
-![](题目.png/6_2.png)
+![](question.assets/6_2.png)
 
 ```
 
@@ -272,7 +272,7 @@ int main(){
 
 ## 第七题
 
-![](题目.png/7.png)
+![](question.assets/7.png)
 
 ```C++
 //

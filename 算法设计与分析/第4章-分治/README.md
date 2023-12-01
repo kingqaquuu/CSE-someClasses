@@ -2,9 +2,9 @@
 
 ## 第一题
 
-![](题目.png/1_1.png)
+![](question.assets/1_1.png)
 
-![](题目.png/1_2.png)
+![](question.assets/1_2.png)
 
 ```c++
 //
@@ -48,9 +48,9 @@ int main()
 
 ## 第二题
 
-![](题目.png/2_1.png)
+![](question.assets/2_1.png)
 
-![](题目.png/2_2.png)
+![](question.assets/2_2.png)
 
 ```c++
 //
@@ -98,13 +98,13 @@ int main(){
 
 ## 第三题
 
-![](题目.png/3_1.png)
+![](question.assets/3_1.png)
 
-![](题目.png/3_2.png)
+![](question.assets/3_2.png)
 
-![](题目.png/3_3.png)
+![](question.assets/3_3.png)
 
-![](题目.png/3_4.png)
+![](question.assets/3_4.png)
 
 ```
 

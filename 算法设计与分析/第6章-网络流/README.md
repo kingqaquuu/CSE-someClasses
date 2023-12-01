@@ -2,9 +2,9 @@
 
 ## 第一题
 
-![](题目.png/1_1.png)
+![](question.assets/1_1.png)
 
-![](题目.png/1_2.png)
+![](question.assets/1_2.png)
 
 ```c++
 //
@@ -96,7 +96,7 @@ int main(){
 
 ## 第二题
 
-![](题目.png/2.png)
+![](question.assets/2.png)
 
 ```c++
 
